@@ -25,5 +25,4 @@ int main() {
         printf("boy %d pair with girl %d.", i + 1, bestMatch + 1);
     }
 
-    return 0;
 }
